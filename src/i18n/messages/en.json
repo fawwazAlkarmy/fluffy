@@ -1,0 +1,32 @@
+{
+  "Navbar": {
+    "Home": "Home",
+    "Our Menu": "Our Menu",
+    "About Fluffy": "About Fluffy",
+    "Locations": "Locations",
+    "Gallery": "Gallery"
+  },
+  "Hero": {
+    "Fluffy Burger": "Fluffy Burger",
+    "Melts in Your Mouth": "Melts in Your Mouth",
+    "Handcrafted Burgers": "Handcrafted Burgers with a Fluffy Touch"
+  },
+  "Menu": {
+    "Burgers": "Burgers",
+    "Crispy": "Crispy",
+    "Fries": "Fries",
+    "Snacks": "Snacks",
+    "Kids Meal": "Kids Meal"
+  },
+  "About": {
+    "Fluffy Burger": "Fluffy Burger",
+    "at": "At",
+    "desc": "We believe that a great burger is more than just food – it's an experience.",
+    "desc2": "From the first bite into our signature fluffy buns, you'll know you've found something special. Every burger we serve is made to order, with perfectly seasoned patties, fresh toppings, and sauces that bring it all together. Whether you're a classic burger lover or you like to experiment with unique flavor combinations, we've got something to satisfy every craving."
+  },
+  "Locations": {
+    "Amman": "Amman",
+    "Zarqa": "Zarqa",
+    "Jordan": "Jordan"
+  }
+}
